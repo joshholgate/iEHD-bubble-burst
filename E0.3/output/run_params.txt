@@ -1,0 +1,11 @@
+Problem description: 			 Electrocapillary wave / Rayleigh-Taylor-type instability
+Number of cells: 			 200 x 600
+Cell width: 				 0.02
+Reynolds number: 			 296.912
+Weber number: 				 2.32829
+Electrical Weber number: 		 0.105496
+File write-out time separation: 	 0.1
+Stability parameter: 			 0.347225
+
+THEORY PREDICTS UNSTABLE INTERFACE
+Growth rate: 		19.0622
